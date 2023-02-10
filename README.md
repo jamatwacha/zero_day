@@ -1,1 +1,1 @@
-vagrant task(optional)
+ubuntu
